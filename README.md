@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-** DATE:04.05.2026 **
+## DATE:04.05.2026 
 
-**NAME:jANSI RANI A A **
+## NAME: JANSI RANI A A
 
-**ROLL NO:212224040130**
+## ROLL NO: 212224040130
 
-**DEPARTMENT:CSE**
+## DEPARTMENT: CSE
 
 ## Aim
 
@@ -546,7 +546,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/696dee75-3e5e-422c-9795-2a6b6f603b9b" />
 
-![Uploading image.png…]()
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/75ff47e0-daa1-4878-832a-fb1bbb470784" />
 
 
 ## Result
